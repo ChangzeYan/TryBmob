@@ -17,7 +17,7 @@ import cn.bmob.v3.listener.FindListener;
 import cn.bmob.v3.listener.SaveListener;
 import cn.bmob.v3.listener.UpdateListener;
 import yangtse.henu.trybmob.Bean.MyTry;
-///高逸博测速sdkfjfhd撒打算
+///高逸博测速sdkfjfhd撒打算33
 
 public class MainActivity extends AppCompatActivity {
     private Button btn_main_add,btn_main_fix;
